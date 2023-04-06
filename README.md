@@ -25,8 +25,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
 
 # Experiment :
-``` ![image](https://user-images.githubusercontent.com/119475943/230283470-5243e855-e950-49f8-bb64-08121a8c128f.png)
-```
+ ![image](https://user-images.githubusercontent.com/119475943/230283470-5243e855-e950-49f8-bb64-08121a8c128f.png)
+
 
 # Program :
 ```
@@ -95,5 +95,5 @@ Table value of Chi square at 1  level is 15.09
 The given data cannot be fitted in Poisson distribution at 1% LOS
 ```
 
-#Result:
+# Result:
 Hence poisson distribution for the arrival of objects per minute from the feeder is fit.
